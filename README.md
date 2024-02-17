@@ -33,7 +33,8 @@ We aim to develop a versatile notification delivery system capable of reaching u
 
 ## Working
 [View Whimsical Diagram](https://whimsical.com/notification-system-RGJTzxXDGWGocbv1644nJS)
-![image](https://github.com/SUDARSHANSHARMA1998/Notification-system/assets/31753412/2390ac9e-995c-42f4-9b36-ddbcb4443665)
+![image](https://github.com/SUDARSHANSHARMA1998/Notification-system/assets/31753412/8797a4f6-1096-4930-9a88-46b7098e8f52)
+
 
 -  Users submit a request to the **notification service** via the **POST /notification** endpoint, providing details such as message content, recipient information, and desired notification channels:
 ```
