@@ -31,6 +31,13 @@ We aim to develop a versatile notification delivery system capable of reaching u
 	npm start
 	```
 
+## Testing Endpoints with Postman
+1. Install [Postman](https://www.postman.com/) if not already installed.
+2. Import the Postman collection from `src\collection\NotificationCollection.json`.
+3. Open the imported collection, run requests, and review responses.
+4. Ensure your local server is running (`npm start`) before testing.
+
+
 ## Working
 [View Whimsical Diagram](https://whimsical.com/notification-system-RGJTzxXDGWGocbv1644nJS)
 ![image](https://github.com/SUDARSHANSHARMA1998/Notification-system/assets/31753412/8797a4f6-1096-4930-9a88-46b7098e8f52)
